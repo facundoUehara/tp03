@@ -1,0 +1,18 @@
+[
+    {
+        "titulo": "comer",
+        "estado": "realizado"
+    },
+    {
+        "titulo": "beber",
+        "estado": "en proceso"
+    },
+    {
+        "titulo": "lavar",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "mirar tv",
+        "estado": "pendiente"
+    }
+]
